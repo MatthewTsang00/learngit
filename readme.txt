@@ -6,3 +6,8 @@ Creating a new branch is quick and simple.
 new branch.
 
 test git fetch
+To be continue
+new branch.
+
+test
+new branch.
