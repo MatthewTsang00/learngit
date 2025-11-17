@@ -3,4 +3,4 @@ new file
 and new sentence
 rebase branch
 
-git reset
+git reset or something 
