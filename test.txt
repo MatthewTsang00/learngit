@@ -3,4 +3,4 @@ new file
 and new sentence
 rebase branch
 
-first stage
+new stage
