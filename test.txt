@@ -3,4 +3,5 @@ new file
 and new sentence
 rebase branch
 
+new stage
 git reset or something 
